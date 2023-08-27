@@ -14,7 +14,7 @@ URL = CORPUS.__url__
 DESCRIPTION = CORPUS.__doc__
 
 setup(
-    name='chatterbot-corpus',
+    name='chatterbot-corpus-py',
     version=VERSION,
     url=URL,
     download_url='{}/tarball/{}'.format(URL, VERSION),
